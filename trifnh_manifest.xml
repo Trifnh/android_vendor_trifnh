@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- <include name="Other file.xml"/> không cần phải viết lại các repo đã được cấu hình ở trong file này-->
+    <remote name="trifnh" fetch="https://github.com/Trifnh" />
+
+    <project 
+        path="Assignment1/testManifest" 
+        name="android_vendor_trifnh" 
+        remote="trifnh" 
+        revision="78f0bd477fb2c060252992cf197e41421f9d5c66">
+        <linkfile src="README.md" dest="assignment1NewFolder/README.md"/>
+    </project>
+</manifest>
