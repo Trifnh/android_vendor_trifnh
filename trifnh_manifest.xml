@@ -8,7 +8,7 @@
         path="Assignment1/testManifest" 
         name="android_vendor_trifnh" 
         remote="trifnh" 
-        revision="78f0bd477fb2c060252992cf197e41421f9d5c66">
+        revision="main">
         <linkfile src="README.md" dest="assignment1NewFolder/README.md"/>
     </project>
 </manifest>
